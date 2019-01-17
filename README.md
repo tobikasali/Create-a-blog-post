@@ -63,8 +63,8 @@ The steps followed can be found in jupyter notebook in this repository.
 
 ### Refrerences
 
-https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
-https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
-https://www.dataquest.io/blog/machine-learning-preparing-data/
-https://classroom.udacity.com
-https://media.readthedocs.org/pdf/jupyter-gmaps/latest/jupyter-gmaps.pdf
+* https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
+* https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+* https://www.dataquest.io/blog/machine-learning-preparing-data/
+* https://classroom.udacity.com
+* https://media.readthedocs.org/pdf/jupyter-gmaps/latest/jupyter-gmaps.pdf
