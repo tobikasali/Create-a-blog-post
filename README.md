@@ -9,8 +9,9 @@ The purpose of this project is to demonstrate our ability to prepare data, work 
 
 ### Contents of the Repository
 
-Readme.md - This file, describing the contents of this repo.
-AirBnB.ipynb - The Jupyter notebook containing the analysis performed.
+Readme.md:  This file, describing the contents of this repo.
+
+AirBnB.ipynb: The Jupyter notebook containing the analysis performed.
 
 Sources files:
 * s_listings.csv - The csv file containing the Seattle AirBnB listings.
