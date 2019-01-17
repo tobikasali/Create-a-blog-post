@@ -1,20 +1,20 @@
 # Create-a-new-blog-post
 Udacity Term 2 Project
 
-##Create a blog post
+## Create a blog post
 
-###Project Description
+### Project Description
 
 The purpose of this project is to demonstrate our ability to prepare data, work with a data set and follow the data science process.The goal is to choose a dataset, prepare the data, perform data analysis and communicate the results. 
 
-###Contents of the Repository
+### Contents of the Repository
 
 Readme.md - This file, describing the contents of this repo.
 AirBnB.ipynb - The Jupyter notebook containing the analysis performed.
 
 Sources files:
-s_listings.csv - The csv file containing the Seattle AirBnB listings.
-b_listings.csv - The csv file containing the Boston AirBnB listings.
+* s_listings.csv - The csv file containing the Seattle AirBnB listings.
+* b_listings.csv - The csv file containing the Boston AirBnB listings.
 
 Python Libraries:
 
@@ -41,21 +41,21 @@ There was a similar trend in the prices per room as Boston is more expensive tha
 
 The top 5 features contributing to price and they are shown below.
 
-bathrooms
-review_scores_location
-room_type_Private room
-room_type_Shared room
-cancellation_policy_strict
+* bathrooms
+* review_scores_location
+* room_type_Private room
+* room_type_Shared room
+* cancellation_policy_strict
 
-The number of bathrooms - This makes sense because private bathrooms in apartment shares always make a difference in the price.
+* The number of bathrooms - This makes sense because private bathrooms in apartment shares always make a difference in the price.
 
-review_scores_location - This is certianly interesting as well - as the best placed listings would probably have higher prices. 
+* review_scores_location - This is certianly interesting as well - as the best placed listings would probably have higher prices. 
 
-room_type_Private room
-room_type_Shared room
+* room_type_Private room
+* room_type_Shared room
 
 Again, I can see how these two features will play an important role in determining the price for a share.
 
-cancellation_policy_strict - Just like hotels, the stricter the cancellation policy the higher the price!
+* cancellation_policy_strict - Just like hotels, the stricter the cancellation policy the higher the price!
 
 The steps followed can be found in jupyter notebook in this repository. 
