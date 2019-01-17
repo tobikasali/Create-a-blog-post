@@ -29,7 +29,7 @@ Sources files:
 * s_listings.csv - The csv file containing the Seattle AirBnB listings.
 * b_listings.csv - The csv file containing the Boston AirBnB listings.
 
-## Libraries required:
+## Libraries required
 
 * numpy and pandas - For data manipulations
 * os and gmaps - To set system variables and enable use of gmaps.
