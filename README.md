@@ -1,5 +1,5 @@
 
-## Create a blog post
+## Create a blog post - Udacity Project
 
 
 ### Table of Contents
@@ -16,7 +16,7 @@ The purpose of this project is to choose a dataset, prepare the data, perform da
 
 1. What areas have the highest priced AirBnB homes?
 2. What do the different types of properties earn on Average? How do prices differ between between Seattle and Boston?
-3.  What are factors that mostly affect AirbnB prices?
+3. What are factors that mostly affect AirbnB prices?
 
 
 ## Contents of the Repository
@@ -38,7 +38,8 @@ Sources files:
 
 ### Summary of results
 
-The results of the analysis are summarised in a blog post here: : https://medium.com/@tobikasali/decisions-decisions-decisions-24acd05d4585
+The results of the analysis are summarised in a blog post here: : https://medium.com/@tobikasali/decisions-decisions-decisions-24acd05d4585.
+
 A closer and more detailed look at the analysis can be found in the jupyter notebook here.
 
 
